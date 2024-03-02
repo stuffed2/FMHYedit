@@ -407,7 +407,7 @@
 * [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
 * [Money Simulator](https://simulator.money) - Money Simulator
 * [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft Classic
-* [Marble Blast Gold Web](https://marbleblast.vani.ga/) - Marble Blast Gold in Browser
+* [Marble Blast Gold Web](https://marbleblast.vani.ga/) - Marble Blast Gold in Browsert
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
 * [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
@@ -1217,7 +1217,7 @@
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
 * [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
-
+* [GD Browser](https://gdbrowser.com/) - Geometry Dash Browser
 ***
 
 ## ▷ Game Maps
